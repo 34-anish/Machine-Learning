@@ -1,0 +1,1 @@
+This repo contains all the source code similar to the codebasics which I used as a primary resource to learn machine learning https://github.com/codebasics/py/tree/master/ML
