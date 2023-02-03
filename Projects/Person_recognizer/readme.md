@@ -1,0 +1,1 @@
+This is a facial recognition project which aims to classify the image. This project (I tried to do but this is not performing in a good way) can recognize Anish, Avaya, Rajesh Hamal,Bipul Chhetri,Pranish.
